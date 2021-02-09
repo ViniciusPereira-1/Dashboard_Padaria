@@ -1,5 +1,5 @@
-# Dashboard_Padaria 1.0
-Dashboard em Excel, criada durante um minicurso, referente às vendas de uma padaria fictícia.
+# Dashboard - Padaria Trevo Dourado - 1.1
+Dashboard em Excel, criada durante um minicurso, referente às vendas de uma padaria **fictícia**.
 
 ### VERSÃO ATUAL
 ### 1.0 - Dashboard Funcional
