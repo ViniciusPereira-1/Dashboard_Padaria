@@ -2,6 +2,19 @@
 Dashboard em Excel, criada durante um minicurso, referente às vendas de uma padaria **fictícia**.
 
 ### VERSÃO ATUAL
+### 1.1 - Melhorias Visuais e mais informações;
+
+**Referentes à Dashboard**
+  *Mudanças:*
+  - Ainda mais melhorias nos ícones representativos nos gráficos de barras.
+  - Agora apresenta o nome da companhia fictícia.
+  
+  *Implementação:*
+  - Inclusão de exibições visuais total de itens vendidos, do faturamento total e da média de faturamento por item;
+  - Inclusão de mais ícone e imagens decorativas.
+  
+_______________________________________________________________________________________________
+### HISTÓRICO
 ### 1.0 - Dashboard Funcional
 
 **Referentes à Dashboard**
@@ -10,7 +23,8 @@ Dashboard em Excel, criada durante um minicurso, referente às vendas de uma pad
   - Inserção de mais três gráficos na Dashboard: Faturamento por categoria, Vendas por Item e Gráfico ABC.
   - Reestruturação da estrutura gráfica da dashboard (this is a buff).
   - Melhoria dos ícones representativos nos gráficos de barras.
-  Implementação:
+  
+  *Implementação:*
   - Filtros por Ano e Mês, além de uma timeline para intervalos específicos de tempo, que filtram e atualizam os gráficos.
   - Filtros específico de categorias para o gráfico de Vendas por Item.
   - Botões de "Atualizar Dados" e "Limpar Filtros" com a utilização de macros. 
@@ -24,8 +38,6 @@ Dashboard em Excel, criada durante um minicurso, referente às vendas de uma pad
   - Inserção de mais ícone representando os produtos.
   - Melhorias visuais na planilha Índice.
   
-_______________________________________________________________________________________________
-### HISTÓRICO
 ### 0.5 - Construção da base de dados e início Dashboard
 
   - Transformação dos dados .csv em uma tabela bem formatada e legível.
