@@ -11,7 +11,10 @@ Dashboard em Excel, criada durante um minicurso, referente às vendas de uma pad
   
   *Implementação:*
   - Inclusão de exibições visuais total de itens vendidos, do faturamento total e da média de faturamento por item;
-  - Inclusão de mais ícone e imagens decorativas.
+  - Inclusão de mais ícones e imagens decorativas.
+  
+  *Pendentes:*
+  - Melhorias visuais na planilha Índice.
   
 _______________________________________________________________________________________________
 ### HISTÓRICO
@@ -35,7 +38,7 @@ ________________________________________________________________________________
   - Inserção de uma tabela dinâmica (td_ABC) de Vendas por Itens associada exclusivamente ao gráfico ABC. Isto permite que os outros gráficos sejam filtrados sem causar anomalidades neste gráfico.
   
   *Pendentes:*
-  - Inserção de mais ícone representando os produtos.
+  - Inserção de mais ícones representando os produtos.
   - Melhorias visuais na planilha Índice.
   
 ### 0.5 - Construção da base de dados e início Dashboard
