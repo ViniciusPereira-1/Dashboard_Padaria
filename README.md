@@ -2,7 +2,7 @@
 Dashboard em Excel, criada durante um minicurso, referente às vendas de uma padaria **fictícia**.
 
 ### VERSÃO ATUAL
-### 1.1 - Melhorias Visuais e mais informações;
+### 1.1 - Melhorias Visuais e mais informações
 
 **Referentes à Dashboard**
 
