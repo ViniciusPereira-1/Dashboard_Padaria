@@ -1,7 +1,26 @@
 # Dashboard - Padaria Trevo Dourado - 1.0
+## DESCRIÇÃO
 Dashboard em Excel, criada durante um minicurso, referente às vendas de uma padaria **fictícia**.
+_______________________________________________________________________________________________
+## Estruturação de nomeação:
+### Intervalos e Macros
+*bd_Main* -> Refere-se a Base de Dados em sua totalidade.
 
-### VERSÃO ATUAL
+*td_XXXX* -> Intervalo das tabelas dinâmicas (ambas as colunas).
+
+*seg_XXXX* -> Refere-se às segmentações de dados.
+
+*tline_XXXX* -> Segmentação de linha do tempo.
+
+*macro_XXXX* -> Refere-se às macros.
+
+### Tabelas
+
+*tab_XXXX* -> Tabelas regulares.
+
+*tabD_XXXX* -> Tabelas Dinâmicas.
+_______________________________________________________________________________________________
+# VERSÃO ATUAL
 ### 1.1 - Melhorias Visuais e mais informações
 
 **Referentes à Dashboard**
