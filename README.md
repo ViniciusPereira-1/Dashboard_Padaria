@@ -5,6 +5,7 @@ Dashboard em Excel, criada durante um minicurso, referente às vendas de uma pad
 ### 1.1 - Melhorias Visuais e mais informações;
 
 **Referentes à Dashboard**
+
   *Mudanças:*
   - Melhorias nos ícones representativos nos gráficos de barras.
   - Agora apresenta o nome da companhia fictícia.
