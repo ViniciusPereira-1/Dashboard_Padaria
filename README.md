@@ -1,4 +1,4 @@
-# Dashboard - Padaria Trevo Dourado - 1.0
+# Dashboard - Padaria Trevo Dourado - 1.2
 ## DESCRIÇÃO
 Dashboard em Excel, criada durante um minicurso, referente às vendas de uma padaria **fictícia**.
 _______________________________________________________________________________________________
@@ -21,6 +21,22 @@ ________________________________________________________________________________
 *tabD_XXXX* -> Tabelas Dinâmicas.
 _______________________________________________________________________________________________
 # VERSÃO ATUAL
+### 1.2 - Melhorias Visuais e bugfixes
+
+**Referentes à Dashboard**
+
+  *Mudanças:*
+  - Agora, o filtro de categoria também é aplicado ao gráfico dinâmico de faturamento por categoria.
+    - Os gráficos de vendas de item e faturamento por categoria foram ajustado para alinharem verticalmente, deixando mais claro que o filtro é aplicado somente a ambos.
+  - O rótulo de dados do gráfico de rosca foi melhorado para maior visibilidade.
+  - O rótulo de dados do gráfico de barras de faturamento por categoria foi ajustado.
+ 
+  
+  *Bugfixes:*
+  - Corrigida a Macro de Limpar Filtros. A origem do erro foi a alteração do nome das segmentações de dados, que não refletem automaticamente no código VBA.
+  
+_______________________________________________________________________________________________
+### HISTÓRICO
 ### 1.1 - Melhorias Visuais e mais informações
 
 **Referentes à Dashboard**
@@ -36,8 +52,6 @@ ________________________________________________________________________________
   *Pendentes:*
   - Melhorias visuais na planilha Índice.
   
-_______________________________________________________________________________________________
-### HISTÓRICO
 ### 1.0 - Dashboard Funcional
 
 **Referentes à Dashboard**
